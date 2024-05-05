@@ -10,9 +10,4 @@
 
 ![Settings](https://user-images.githubusercontent.com/119127322/215325945-aae52607-21bd-42ab-8fcb-f337592a609a.png)
 
-# FBlocker Version 1.0
-
-- A safer internet experience with 244 blocked sites
-- The blocked site list is constantly updated
-
 # Made by [Wacpy](github.com/wacpy)
